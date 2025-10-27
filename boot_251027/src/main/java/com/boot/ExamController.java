@@ -13,7 +13,7 @@ public class ExamController {
 	public String home() {
 
 
-		log.info("hello boot 111 222 333 444 555 666 777 888");
+		log.info("hello boot");
 
 
 		
